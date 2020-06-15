@@ -1,0 +1,7 @@
+{
+    "port": 5000,
+    "mongoUrl": "mongodb+srv://Kerchik:12345@cluster0-qs813.azure.mongodb.net/app?retryWrites=true&w=majority",
+    "jwtSecret": "SecretJwtKey",
+    "baseUrl": "http://localhost:5000"
+
+}
